@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965918655996",
+    "firebase_url": "https://qrcode-reader-16504.firebaseio.com",
+    "project_id": "qrcode-reader-16504",
+    "storage_bucket": "qrcode-reader-16504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965918655996:android:e46dfba7be6e647c",
+        "android_client_info": {
+          "package_name": "com.example.david.dstloanersystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965918655996-el7jbd8e1r5e62nqktv80ue7ivmomr2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ1RVpyAlJuAxr0N8b238p78jnLBfl7Ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
